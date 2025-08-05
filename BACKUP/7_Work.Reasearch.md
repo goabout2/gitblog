@@ -2,6 +2,8 @@
 
 之前的blog在[博客园](https://www.cnblogs.com/goabout2)，由于需要实名认证，索性搬到了github上，这里主要记录我这些年工作中的一些研究成果
 
+[Chrome 在野 0day CVE-2025-6554 浅析](https://ti.qianxin.com/blog/articles/a-brief-analysis-of-chrome-0day-cve-2025-6554-cn/)
+
 [ALPC 之殇 - 8月未知 Windows 在野提权 Nday 漏洞研究](https://ti.qianxin.com/blog/articles/the-tragedy-of-alpc-unknown-windows-privilege-escalation-nday-vulnerability-research-in-august-cn/)
 
 [公开的隐秘：CVE-2024-30051在野提权漏洞研究](https://ti.qianxin.com/blog/articles/public-secret-research-on-the-cve-2024-30051-privilege-escalation-vulnerability-in-the-wild-cn/)
